@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **HTML,CSS,C++**
+- 💬 Ask me about **HTML,CSS,Tailwind,Javascript,React,Next,Typescript,Node,Firebase,Appscript,C++**
 
 - 📫 How to reach me **akhileshvishwakarma2002@gmail.com**
 
