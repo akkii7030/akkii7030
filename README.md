@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **ImageStore.apk**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Typescript**
 
-- 👯 I’m looking to collaborate on **Android & Web Development**
+- 👯 I’m looking to collaborate on **Web Development**
 
 - 💬 Ask me about **HTML,CSS,C++**
 
