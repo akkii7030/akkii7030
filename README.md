@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishwakarma Akhilesh Laljee</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **ImageStore.apk**
+- 🔭 I’m currently working on **Agentic AI**
 
 - 🌱 I’m currently learning **Typescript**
 
