@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akhileshvishwakarma2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16ECZhKrZQ17Q68MucFcZT4jPocDbiuyG/view?usp=drivesdk](https://drive.google.com/file/d/16ECZhKrZQ17Q68MucFcZT4jPocDbiuyG/view?usp=drivesdk)
+- 📄 Know about my experiences [LinkedIn ]([https://drive.google.com/file/d/16ECZhKrZQ17Q68MucFcZT4jPocDbiuyG/view?usp=drivesdk](https://www.linkedin.com/in/akhilesh-vishwakarma-2842051ab/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
